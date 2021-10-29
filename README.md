@@ -31,7 +31,7 @@ I started in 2021 a PHP / Symfony training program from [OpenClassrooms](https:/
   <a href="https://bastienmunck.fr/P4/P4_03_support_presentation.pdf"> 
   <img align="" width="400" src="https://raw.githubusercontent.com/iBast/iBast/main/expressfood.png" />
      </a>
-<a href="https://blog.bastienmunck.fr"> 
+<a href="https://github.com/iBast/BastienMunck_P5_20210420"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=iBast&repo=BastienMunck_P5_20210420" />
 </a>
   <a href="https://snowtricks.bastienmunck.fr"> 
@@ -40,14 +40,14 @@ I started in 2021 a PHP / Symfony training program from [OpenClassrooms](https:/
   <a href="https://bilemo.bastienmunck.fr/api/doc"> 
   <img width="400" height="200" src="https://raw.githubusercontent.com/iBast/iBast/main/bilemo.png" />
   </a>
- <a href="https://snowtricks.bastienmunck.fr"> 
+ <a href="https://github.com/iBast/BastienMunck_P6_20210707"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=iBast&repo=BastienMunck_P6_20210707" />
 </a>
-<a href="https://bilemo.bastienmunck.fr/api/doc"> 
+<a href="https://github.com/iBast/BastienMunck_P7_20210826"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=iBast&repo=BastienMunck_P7_20210826" />
 </a>
   <img width="400" height="200" src="https://raw.githubusercontent.com/iBast/iBast/main/coverage.png" /> <br />
-  <a href="https://github.com/YuriDevAT/instagram-clone">
+  <a href="https://github.com/iBast/BastienMunck_P8_20211012">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=iBast&repo=BastienMunck_P8_20211012" />
 </a>
 </p>
