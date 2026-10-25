@@ -19,14 +19,14 @@ I spent ten years in hospitality before becoming a developer, which helps me und
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
-- **Back-end:** Symfony, Doctrine, REST APIs, Mercure, Symfony UX / Live Components
+- **Back-end:** Symfony, Doctrine, Messenger & Scheduler, REST APIs, Mercure, Stripe, Symfony UX / Live Components
 - **Quality:** PHPStan, PHPUnit, CI pipelines, PSR-12
 - **Ops:** Docker, Traefik, self-hosted on a Linux VPS
 - **AI-assisted development:** Claude Code every day — agentic multi-step tasks, project instructions, security reviews
 
 #### What I'm building
 
-- **[Triclub](https://triclub.fr)** — a SaaS to run sports clubs: members, treasury with bank reconciliation, polls, race timing. Symfony API + separate front-end, real-time with Mercure, native mobile apps (iOS live on the App Store, Android coming soon). In production for my triathlon club.
+- **[Triclub](https://triclub.fr)** — a multi-tenant SaaS to run sports clubs: members, treasury with bank reconciliation, shop, polls, race timing. Symfony 8 / PHP 8.4, async jobs with Messenger, idempotent Stripe webhooks, real-time with Mercure, MCP servers for AI agents, native mobile apps (iOS live on the App Store, Android coming soon). In production for my triathlon club.
 
 #### Get in touch
 
