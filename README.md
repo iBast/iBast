@@ -1,6 +1,6 @@
 ### Hi, I'm Bastien 👋
 
-Back-end developer working with **PHP / Symfony** — [Symfony 6 Certified Developer (Advanced)](https://connect.symfony.com/profile/ibast).
+Back-end developer working with **PHP / Symfony** - [Symfony 6 Certified Developer (Advanced)](https://connect.symfony.com/profile/ibast).
 I currently work at [2le](https://github.com/2lenet) in Mulhouse.
 
 I spent ten years in hospitality before becoming a developer, which helps me understand what customers actually need.
@@ -22,11 +22,11 @@ I spent ten years in hospitality before becoming a developer, which helps me und
 - **Back-end:** Symfony, Doctrine, Messenger & Scheduler, REST APIs, Mercure, Stripe, Symfony UX / Live Components
 - **Quality:** PHPStan, PHPUnit, CI pipelines, PSR-12
 - **Ops:** Docker, Traefik, self-hosted on a Linux VPS
-- **AI-assisted development:** Claude Code every day — agentic multi-step tasks, project instructions, security reviews
+- **AI-assisted development:** Claude Code every day - agentic multi-step tasks, project instructions, security reviews
 
 #### What I'm building
 
-- **[Triclub](https://triclub.fr)** — a multi-tenant SaaS to run sports clubs: members, treasury with bank reconciliation, shop, polls, race timing. Symfony 8 / PHP 8.4, async jobs with Messenger, idempotent Stripe webhooks, real-time with Mercure, MCP servers for AI agents, native mobile apps (iOS live on the App Store, Android coming soon). In production for my triathlon club.
+- **[Triclub](https://triclub.fr)** - a multi-tenant SaaS to run sports clubs: members, treasury with bank reconciliation, shop, polls, race timing. Symfony 8 / PHP 8.4, async jobs with Messenger, idempotent Stripe webhooks, real-time with Mercure, MCP servers for AI agents, native mobile apps (iOS live on the App Store, Android coming soon). In production for my triathlon club.
 
 #### Get in touch
 
