@@ -26,7 +26,7 @@ I spent ten years in hospitality before becoming a developer, which helps me und
 
 #### What I'm building
 
-- **[Triclub](https://triclub.fr)** — a SaaS to run sports clubs: members, treasury with bank reconciliation, polls, race timing. Symfony API + separate front-end, real-time with Mercure, native mobile apps (Android ready for store release, iOS in progress). In production for my triathlon club.
+- **[Triclub](https://triclub.fr)** — a SaaS to run sports clubs: members, treasury with bank reconciliation, polls, race timing. Symfony API + separate front-end, real-time with Mercure, native mobile apps (iOS live on the App Store, Android coming soon). In production for my triathlon club.
 
 #### Get in touch
 
