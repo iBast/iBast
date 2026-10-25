@@ -1,9 +1,9 @@
 ### Hi, I'm Bastien 👋
 
-Back-end developer working with **PHP / Symfony** — certified Symfony 6.
-I build and maintain a hotel PMS (property management system) in production at [2le](https://github.com/2lenet), a custom business-software company in Alsace, France.
+Back-end developer working with **PHP / Symfony** — [Symfony 6 Certified Developer (Advanced)](https://connect.symfony.com/profile/ibast).
+I currently work at [2le](https://github.com/2lenet) in Mulhouse.
 
-Before software, I spent ten years in hotel management, from receptionist to general manager. I know what the people using business software actually need.
+I spent ten years in hospitality before becoming a developer, which helps me understand what customers actually need.
 
 #### What I work with
 
@@ -27,7 +27,6 @@ Before software, I spent ten years in hotel management, from receptionist to gen
 #### What I'm building
 
 - **[Triclub](https://triclub.fr)** — a SaaS to run sports clubs: members, treasury with bank reconciliation, polls, race timing. Symfony API + separate front-end, real-time with Mercure, native iOS app in progress. In production for my triathlon club.
-- **A Symfony CRUD framework** — resources declared with PHP attributes, iOS-style master-detail navigation, built on Symfony UX Live Components.
 
 #### Get in touch
 
